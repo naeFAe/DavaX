@@ -1,0 +1,21 @@
+employee_id,absence_date,absence_duration,absence_type
+2,2026-05-01,8h,Vacation
+5,2026-05-02,2h 30m,Doctor Visit
+8,2026-05-03,4h,Sick Leave
+11,2026-05-04,1h 15m,Personal Leave
+14,2026/05/05,8h,Vacation
+17,05-05-2026,3h,Sick Leave
+20,2026-05-06,90m,Doctor Visit
+23,2026-05-07,abc,Personal Leave
+26,2026-05-08,26h,Vacation
+29,2026-05-09,0h,Sick Leave
+32,2026-05-10,45m,Doctor Visit
+35,2026-05-11,2h,Personal Leave
+,2026-05-12,8h,Vacation
+40,2026-05-13,3h 75m,Sick Leave
+43,2026-05-14,8h,Vacation
+46,2026-05-15,1h,Doctor Visit
+49,2026-05-16,5h,Personal Leave
+52,2026-05-17,8h,Vacation
+999,2026-05-18,8h,Sick Leave
+60,2026-05-19,2h 45m,Doctor Visit
